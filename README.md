@@ -2,6 +2,9 @@
 
 A React-based weather prediction dashboard using machine learning models for temperature and humidity forecasting. The application features multiple visualization libraries and interactive data analysis tools.
 
+<img width="1676" height="1536" alt="image" src="https://github.com/user-attachments/assets/c1909a8d-4f20-4434-8720-26443d49a027" />
+
+
 
 ## Start the backend server
 ***Navigate to the root folder***: Navigate to the folder which contains frontend and backend folders, then run the following commands
